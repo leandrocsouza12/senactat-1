@@ -11,9 +11,10 @@
 			
 #03_ Atualizando via Linha de Comando
 	PESQUISAR: O QUE É BASH?
-			   O QUE É SHELL?
-			   O QUE É APT-GET?
-			   O QUE É SUDO?
+			   O QUE É SHELL? Shell é uma camada de abstração do bash
+			   O QUE É APT-GET? Software para instalar, remover ou atualização aplicativos
+			   O QUE É SUDO? Su (Super-Usuário - Do = ser)
+			   https://pt.wikipedia.org/wiki/Sudo
 	
 	sudo apt update		--> MintUpdate Atualizar
 	sudo apt upgrade	--> MintUpdate Instalar
