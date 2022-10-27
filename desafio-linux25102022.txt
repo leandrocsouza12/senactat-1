@@ -6,22 +6,48 @@
 
 #01_ Instalação dos Navegadores (Recomendo via Gdebi)
 	_a - Google Chrome; - OK
+	Link: https://www.google.com/intl/pt-BR/chrome/
+	
 	_b - Opera; - OK
-	_c - Microsoft Edge;
-	_d - Vivaldi;
-	_e - Tor;
-	_f - Brave.
+	Link: https://www.opera.com/pt-br/browsers/opera
+	
+	_c - Microsoft Edge; - OK
+	Link: https://www.microsoft.com/pt-br/edge?form=MA13FJ#evergreen
+	
+	_d - Vivaldi; - OK
+	Link: https://vivaldi.com/pt-br/download/
+	
+	_e - Tor; - OK
+	Link: https://www.torproject.org/download/
+	Observação: Arquivo Compactado, descompartar o arquivo primeiro, depois
+	executar o aplicativo.
+	
+	_f - Brave. - OK
+	Link: https://brave.com/linux/
+	Observação: Instalação e feita via linha de comando, procedimento no site.
 	
 #02_ Instalação do suporte ao TTF (TrueType Fonts)
-	a_ Ttf-mscorefonts (Gerenciador de Aplicativos)
+	a_ Ttf-mscorefonts (Gerenciador de Aplicativos) - OK
 
 #03_ Instalação dos Pacote Office
-	_a - WPS Office for Linux (Recomendo via Gdebi)
-	_c - FreeOffice for Linux (Recomendo via Gdebi)
-	_d - OnlyOffice Desktop for Linux (Recomendo AppImagem)
-	_e - Microsoft Teams for Linux (Recomendo via Gdebi)
-	_f - Skype for Linux (Recomendo via Gdebi)
-	_g - KolourPaint (Gerenciador de Aplicativo)
+	_a - WPS Office for Linux (Recomendo via Gdebi) - OK
+	Link: https://www.wps.com/
+	
+	_b - FreeOffice for Linux (Recomendo via Gdebi)
+	Link: 
+	Observação: Rede do SENAC está bloqueando o download
+	
+	_c - OnlyOffice Desktop for Linux (Recomendo AppImagem) - OK
+	Link: https://www.onlyoffice.com/pt/download-desktop.aspx
+	Observação: Alterar a permissão de AppImage para Permitir Execução
+	
+	_d - Microsoft Teams for Linux (Recomendo via Gdebi) - OK
+	Link: https://www.microsoft.com/pt-br/microsoft-teams/download-app
+	
+	_e - Skype for Linux (Recomendo via Gdebi) - OK
+	Link: https://www.skype.com/pt-br/get-skype/download-skype-for-desktop/
+	
+	_f - KolourPaint (Gerenciador de Aplicativo) - OK
 
 #04_ Instalação dos Editores de Texto para Desenvolvimento
 	_a - Visual Studio Code for Linux (Recomendo via Gdebi)
