@@ -34,7 +34,7 @@
 	Link: https://www.wps.com/
 	
 	_b - FreeOffice for Linux (Recomendo via Gdebi)
-	Link: 
+	Link: https://drive.google.com/drive/folders/11Um9e0eY5KhARW_waW15X732qyllEXpI?usp=sharing
 	Observação: Rede do SENAC está bloqueando o download
 	
 	_c - OnlyOffice Desktop for Linux (Recomendo AppImagem) - OK
